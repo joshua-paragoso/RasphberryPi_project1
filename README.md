@@ -1,0 +1,1 @@
+This project is for emulating a project of a smart mirror using a rasphberry pi
